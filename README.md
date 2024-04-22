@@ -1,4 +1,4 @@
-Experiment Pendulum
+Experiment Lifting a Mechanical Load with DC-motor
 
 ***This project is part of AVE3 pratical course for Modelling and Simulation.
 This experiment is a combination of both electrical and mechanical systerm. 
